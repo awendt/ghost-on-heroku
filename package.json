@@ -11,6 +11,7 @@
   "version": "0.5.8",
   "dependencies": {
     "ghost": "0.5.8",
+    "newrelic": "^1.14.7",
     "pg": "latest"
   },
   "engines": {
